@@ -1,0 +1,1015 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5d80df7-8aeb-49c9-89c2-63f744ffc92a" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/org/junit/jupiter/api/annotations.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Tests/boardTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/inf101/v18/sem2/Board.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/inf101/v18/sem2/HumanVSAi.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/inf101/v18/sem2/HumanVSHuman.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/inf101/v18/sem2/IBoard.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/inf101/v18/sem2/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/inf101/v18/sem2/Minimax.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/inf101/v18/sem2/Move.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/inf101/v18/sem2/ResourceLoader.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/inf101/v18/sem2/iGUI.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/inf101.v18.sem2.iml" afterPath="$PROJECT_DIR$/inf101.v18.sem2.iml" />
+      <change beforePath="$PROJECT_DIR$/src/inf101/v18/sem2/AppInfo.java" afterPath="$PROJECT_DIR$/src/main/java/inf101/v18/sem2/AppInfo.java" />
+    </list>
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Board.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/Board.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="232" column="21" lean-forward="true" selection-start-line="232" selection-start-column="21" selection-end-line="232" selection-end-column="21" />
+              <folding>
+                <element signature="e#1201#1202#0" expanded="true" />
+                <element signature="e#1232#1233#0" expanded="true" />
+                <element signature="e#1461#1462#0" expanded="true" />
+                <element signature="e#1490#1491#0" expanded="true" />
+                <element signature="e#1532#1533#0" expanded="true" />
+                <element signature="e#1568#1569#0" expanded="true" />
+                <element signature="e#1604#1605#0" expanded="true" />
+                <element signature="e#1637#1638#0" expanded="true" />
+                <element signature="method#getChildren#0;class#Board#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HumanVSHuman.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/HumanVSHuman.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="146" column="32" lean-forward="false" selection-start-line="146" selection-start-column="32" selection-end-line="146" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#HumanVSHuman#0;class#HumanVSHuman#0" expanded="false" />
+                <element signature="method#createLayeredBoard#0;class#HumanVSHuman#0" expanded="false" />
+                <element signature="e#1935#2067#0" expanded="true" />
+                <element signature="e#2066#2067#0" expanded="true" />
+                <element signature="method#keyPressed#0;class#2170:3703" expanded="false" />
+                <element signature="method#centerWindow#0;class#HumanVSHuman#0" expanded="false" />
+                <element signature="method#game#0;class#HumanVSHuman#0" expanded="false" />
+                <element signature="e#12666#12700#0" expanded="true" />
+                <element signature="method#main#0;class#HumanVSHuman#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HumanVSAi.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/HumanVSAi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="153" column="24" lean-forward="false" selection-start-line="153" selection-start-column="24" selection-end-line="153" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#469#512#0" expanded="false" />
+                <element signature="method#HumanVSAi#0;class#HumanVSAi#0" expanded="false" />
+                <element signature="method#createLayeredBoard#0;class#HumanVSAi#0" expanded="false" />
+                <element signature="method#createNewGame#0;class#HumanVSAi#0" expanded="false" />
+                <element signature="e#2162#2316#0" expanded="true" />
+                <element signature="e#2315#2316#0" expanded="true" />
+                <element signature="method#placeChecker#0;class#HumanVSAi#0" expanded="false" />
+                <element signature="method#game#0;class#HumanVSAi#0" expanded="false" />
+                <element signature="method#aiMove#0;class#HumanVSAi#0" expanded="false" />
+                <element signature="docComment;method#createContentComponents#0;class#HumanVSAi#0" expanded="false" />
+                <element signature="method#createContentComponents#0;class#HumanVSAi#0" expanded="false" />
+                <element signature="class#8808:9610" expanded="false" />
+                <element signature="e#17357#17391#0" expanded="true" />
+                <element signature="method#main#0;class#HumanVSAi#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="167">
+                <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="iGUI.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/iGUI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="439">
+              <caret line="40" column="8" lean-forward="false" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="docComment;method#createLayeredBoard#0;class#iGUI#0" expanded="false" />
+                <element signature="docComment;method#centerWindow#0;class#iGUI#0" expanded="false" />
+                <element signature="docComment;method#placeChecker#0;class#iGUI#0" expanded="false" />
+                <element signature="docComment;method#game#0;class#iGUI#0" expanded="false" />
+                <element signature="docComment;method#createContentComponents#0;class#iGUI#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="43">
+              <caret line="141" column="0" lean-forward="true" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
+              <folding>
+                <element signature="e#5887#5888#0" expanded="true" />
+                <element signature="e#5925#5926#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Move.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/Move.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="316">
+              <caret line="44" column="20" lean-forward="false" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="boardTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Tests/boardTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="docComment;method#canMoveTest#0;class#boardTest#0" expanded="false" />
+                <element signature="method#canMoveTest#0;class#boardTest#0" expanded="false" />
+                <element signature="docComment;method#fullColumnTest#0;class#boardTest#0" expanded="false" />
+                <element signature="method#fullColumnTest#0;class#boardTest#0" expanded="false" />
+                <element signature="docComment;method#rowTest#0;class#boardTest#0" expanded="false" />
+                <element signature="method#rowTest#0;class#boardTest#0" expanded="false" />
+                <element signature="docComment;method#winTest#0;class#boardTest#0" expanded="false" />
+                <element signature="method#winTest#0;class#boardTest#0" expanded="false" />
+                <element signature="docComment;method#goTest#0;class#boardTest#0" expanded="false" />
+                <element signature="method#goTest#0;class#boardTest#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ResourceLoader.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/ResourceLoader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Minimax.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/Minimax.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="172">
+              <caret line="83" column="50" lean-forward="false" selection-start-line="83" selection-start-column="50" selection-end-line="83" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#Minimax#0;class#Minimax#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>system.out.print</find>
+      <find>system.out.println</find>
+      <find>GREEN</find>
+      <find>connect-4</find>
+      <find>winner</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/inf101/v18/sem2/connect4.java" />
+        <option value="$PROJECT_DIR$/src/inf101/v18/sem2/GameParamters.java" />
+        <option value="$PROJECT_DIR$/src/inf101/v18/sem2/GameParamaters.java" />
+        <option value="$PROJECT_DIR$/src/inf101/v18/sem2/GameParameters.java" />
+        <option value="$PROJECT_DIR$/src/inf101/v18/sem2/Move.java" />
+        <option value="$PROJECT_DIR$/src/inf101/v18/sem2/Board.java" />
+        <option value="$PROJECT_DIR$/src/inf101/v18/sem2/GuiAiVSAi.java" />
+        <option value="$PROJECT_DIR$/src/inf101/v18/sem2/GuiHumanVSAi.java" />
+        <option value="$PROJECT_DIR$/src/inf101/v18/sem2/GuiHumanVSHuman.java" />
+        <option value="$PROJECT_DIR$/src/inf101/v18/sem2/Main.java" />
+        <option value="$PROJECT_DIR$/src/inf101/v18/sem2/MiniMaxAi.java" />
+        <option value="$PROJECT_DIR$/src/inf101/v18/sem2/PreferencesWindow.java" />
+        <option value="$PROJECT_DIR$/src/inf101/v18/sem2/ResourceLoader.java" />
+        <option value="$PROJECT_DIR$/src/inf101/v18/sem2/MinimaxAi.java" />
+        <option value="$PROJECT_DIR$/src/inf101/v18/sem2/GUI.java" />
+        <option value="$PROJECT_DIR$/src/inf101/v18/sem2/Gui.java" />
+        <option value="$PROJECT_DIR$/src/main/java/inf101/v18/sem2/Gui.java" />
+        <option value="$PROJECT_DIR$/src/main/java/inf101/v18/sem2/iGUI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/inf101/v18/sem2/PreferencesWindow.java" />
+        <option value="$PROJECT_DIR$/src/main/java/inf101/v18/sem2/IBoard.java" />
+        <option value="$PROJECT_DIR$/src/main/java/inf101/v18/sem2/GameParameters.java" />
+        <option value="$PROJECT_DIR$/src/main/java/inf101/v18/sem2/GuiHumanVSHuman.java" />
+        <option value="$PROJECT_DIR$/src/main/java/inf101/v18/sem2/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/inf101/v18/sem2/MinimaxAi.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tests/winTest.java" />
+        <option value="$PROJECT_DIR$/src/Tests/winTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/inf101/v18/sem2/GuiHumanVSAi.java" />
+        <option value="$PROJECT_DIR$/src/Tests/checkerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/inf101/v18/sem2/Board.java" />
+        <option value="$PROJECT_DIR$/src/Tests/boardTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/inf101/v18/sem2/ResourceLoader.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="143" />
+    <option name="y" value="110" />
+    <option name="width" value="1718" />
+    <option name="height" value="928" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="inf101.v18.sem2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="inf101.v18.sem2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="inf101.v18.sem2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="inf101.v18.sem2" type="462c0819:PsiDirectoryNode" />
+              <item name=".settings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="inf101.v18.sem2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="inf101.v18.sem2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="inf101.v18.sem2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="inf101.v18.sem2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="inf101.v18.sem2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="inf101.v18.sem2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="inf101.v18.sem2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="inf101.v18.sem2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sem2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="inf101.v18.sem2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="inf101.v18.sem2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SearchEverywhereHistoryKey" value="win&#9;PSI&#9;JAVA://null#windowClosing&#10;project&#9;ACTION&#9;ShowProjectStructureSettings&#10;properties&#9;PSI&#9;JAVA://java.util.Properties&#10;proje&#9;ACTION&#9;ShowProjectStructureSettings" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tomru\Google Drive\Workspace\inf101.v18.sem2\src" />
+      <recent name="C:\Users\tomru\Google Drive\Workspace\inf101.v18.sem2\src\main" />
+      <recent name="C:\Users\tomru\Google Drive\Workspace\inf101.v18.sem2\res" />
+      <recent name="C:\Users\tomru\Google Drive\Workspace\inf101.v18.sem2" />
+      <recent name="C:\Users\tomru\Google Drive\Workspace\inf101.v18.sem2\src\res" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="inf101.v18.sem2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="inf101.v18.sem2.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="inf101.v18.sem2" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="boardTest.goTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="inf101.v18.sem2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="boardTest" />
+      <option name="METHOD_NAME" value="goTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="boardTest.rowTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="inf101.v18.sem2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="boardTest" />
+      <option name="METHOD_NAME" value="rowTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="boardTest.winTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="inf101.v18.sem2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="boardTest" />
+      <option name="METHOD_NAME" value="winTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="boardTest.winnerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="inf101.v18.sem2" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="boardTest" />
+      <option name="METHOD_NAME" value="winnerTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.boardTest.winnerTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.boardTest.rowTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.boardTest.winTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.boardTest.goTest" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.boardTest.goTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.boardTest.winTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.boardTest.rowTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.boardTest.winnerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5d80df7-8aeb-49c9-89c2-63f744ffc92a" name="Default" comment="" />
+      <created>1523870265264</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523870265264</updated>
+      <workItem from="1523870266504" duration="63022000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="boardTest_goTest - 2018.04.27 at 15h 37m 34s.xml">
+      <configuration name="boardTest.goTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="boardTest_rowTest - 2018.04.27 at 15h 27m 56s.xml">
+      <configuration name="boardTest.rowTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="boardTest_rowTest - 2018.04.27 at 15h 28m 34s.xml">
+      <configuration name="boardTest.rowTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="boardTest_rowTest - 2018.04.27 at 15h 29m 02s.xml">
+      <configuration name="boardTest.rowTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="boardTest_winTest - 2018.04.27 at 15h 32m 57s.xml">
+      <configuration name="boardTest.winTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="boardTest_winTest - 2018.04.27 at 15h 33m 11s.xml">
+      <configuration name="boardTest.winTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="checkerTest_winnerTest - 2018.04.27 at 15h 22m 52s.xml">
+      <configuration name="checkerTest.winnerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="checkerTest_winnerTest - 2018.04.27 at 15h 23m 25s.xml">
+      <configuration name="checkerTest.winnerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="checkerTest_winnerTest - 2018.04.27 at 15h 23m 35s.xml">
+      <configuration name="checkerTest.winnerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="checkerTest_winnerTest - 2018.04.27 at 15h 24m 05s.xml">
+      <configuration name="checkerTest.winnerTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="63022000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28508288" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15989584" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="19" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/inf101/v18/sem2/GameParamters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Properties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="123" column="2" lean-forward="true" selection-start-line="123" selection-start-column="2" selection-end-line="124" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/javafx-src.zip!/javafx/stage/Stage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="720" column="22" lean-forward="false" selection-start-line="720" selection-start-column="22" selection-end-line="720" selection-end-column="22" />
+          <folding>
+            <element signature="e#25545#25546#0" expanded="false" />
+            <element signature="e#25587#25588#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/GuiAiVSAi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="126" column="23" lean-forward="false" selection-start-line="126" selection-start-column="23" selection-end-line="126" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/javax/swing/UIManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="570" column="23" lean-forward="false" selection-start-line="570" selection-start-column="23" selection-end-line="570" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/Gui.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="583" column="29" lean-forward="true" selection-start-line="583" selection-start-column="29" selection-end-line="583" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/AppInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/IBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="637">
+          <caret line="118" column="3" lean-forward="false" selection-start-line="118" selection-start-column="3" selection-end-line="118" selection-end-column="3" />
+          <folding>
+            <element signature="docComment;method#setLastSymbolPlayed#0;class#IBoard#0" expanded="false" />
+            <element signature="docComment;method#getWinner#0;class#IBoard#0" expanded="false" />
+            <element signature="docComment;method#setWinner#0;class#IBoard#0" expanded="false" />
+            <element signature="docComment;method#isGameOver#0;class#IBoard#0" expanded="false" />
+            <element signature="docComment;method#setGameOver#0;class#IBoard#0" expanded="false" />
+            <element signature="docComment;method#isOccurredOverflow#0;class#IBoard#0" expanded="false" />
+            <element signature="docComment;method#setOccurredOverflow#0;class#IBoard#0" expanded="false" />
+            <element signature="docComment;method#makeMove#0;class#IBoard#0" expanded="false" />
+            <element signature="docComment;method#canMove#0;class#IBoard#0" expanded="false" />
+            <element signature="docComment;method#checkFullColumn#0;class#IBoard#0" expanded="false" />
+            <element signature="docComment;method#getRowPosition#0;class#IBoard#0" expanded="false" />
+            <element signature="docComment;method#getChildren#0;class#IBoard#0" expanded="false" />
+            <element signature="docComment;method#evaluate#0;class#IBoard#0" expanded="false" />
+            <element signature="docComment;method#checkWinState#0;class#IBoard#0" expanded="false" />
+            <element signature="docComment;method#checkGameOver#0;class#IBoard#0" expanded="false" />
+            <element signature="e#1554#1610#0" expanded="false" />
+            <element signature="e#1652#1703#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/Minimax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="83" column="50" lean-forward="false" selection-start-line="83" selection-start-column="50" selection-end-line="83" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Minimax#0;class#Minimax#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/PreferencesWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="11" column="48" lean-forward="true" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/GameParameters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/iGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="40" column="8" lean-forward="false" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#createLayeredBoard#0;class#iGUI#0" expanded="false" />
+            <element signature="docComment;method#centerWindow#0;class#iGUI#0" expanded="false" />
+            <element signature="docComment;method#placeChecker#0;class#iGUI#0" expanded="false" />
+            <element signature="docComment;method#game#0;class#iGUI#0" expanded="false" />
+            <element signature="docComment;method#createContentComponents#0;class#iGUI#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/HumanVSHuman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="146" column="32" lean-forward="false" selection-start-line="146" selection-start-column="32" selection-end-line="146" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#HumanVSHuman#0;class#HumanVSHuman#0" expanded="false" />
+            <element signature="method#createLayeredBoard#0;class#HumanVSHuman#0" expanded="false" />
+            <element signature="e#1935#2067#0" expanded="true" />
+            <element signature="e#2066#2067#0" expanded="true" />
+            <element signature="method#keyPressed#0;class#2170:3703" expanded="false" />
+            <element signature="method#centerWindow#0;class#HumanVSHuman#0" expanded="false" />
+            <element signature="method#game#0;class#HumanVSHuman#0" expanded="false" />
+            <element signature="e#12666#12700#0" expanded="true" />
+            <element signature="method#main#0;class#HumanVSHuman#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tests/boardTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#canMoveTest#0;class#boardTest#0" expanded="false" />
+            <element signature="method#canMoveTest#0;class#boardTest#0" expanded="false" />
+            <element signature="docComment;method#fullColumnTest#0;class#boardTest#0" expanded="false" />
+            <element signature="method#fullColumnTest#0;class#boardTest#0" expanded="false" />
+            <element signature="docComment;method#rowTest#0;class#boardTest#0" expanded="false" />
+            <element signature="method#rowTest#0;class#boardTest#0" expanded="false" />
+            <element signature="docComment;method#winTest#0;class#boardTest#0" expanded="false" />
+            <element signature="method#winTest#0;class#boardTest#0" expanded="false" />
+            <element signature="docComment;method#goTest#0;class#boardTest#0" expanded="false" />
+            <element signature="method#goTest#0;class#boardTest#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="232" column="21" lean-forward="true" selection-start-line="232" selection-start-column="21" selection-end-line="232" selection-end-column="21" />
+          <folding>
+            <element signature="e#1201#1202#0" expanded="true" />
+            <element signature="e#1232#1233#0" expanded="true" />
+            <element signature="e#1461#1462#0" expanded="true" />
+            <element signature="e#1490#1491#0" expanded="true" />
+            <element signature="e#1532#1533#0" expanded="true" />
+            <element signature="e#1568#1569#0" expanded="true" />
+            <element signature="e#1604#1605#0" expanded="true" />
+            <element signature="e#1637#1638#0" expanded="true" />
+            <element signature="method#getChildren#0;class#Board#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/ResourceLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/Move.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="44" column="20" lean-forward="false" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="141" column="0" lean-forward="true" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
+          <folding>
+            <element signature="e#5887#5888#0" expanded="true" />
+            <element signature="e#5925#5926#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/HumanVSAi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="153" column="24" lean-forward="false" selection-start-line="153" selection-start-column="24" selection-end-line="153" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#469#512#0" expanded="false" />
+            <element signature="method#HumanVSAi#0;class#HumanVSAi#0" expanded="false" />
+            <element signature="method#createLayeredBoard#0;class#HumanVSAi#0" expanded="false" />
+            <element signature="method#createNewGame#0;class#HumanVSAi#0" expanded="false" />
+            <element signature="e#2162#2316#0" expanded="true" />
+            <element signature="e#2315#2316#0" expanded="true" />
+            <element signature="method#placeChecker#0;class#HumanVSAi#0" expanded="false" />
+            <element signature="method#game#0;class#HumanVSAi#0" expanded="false" />
+            <element signature="method#aiMove#0;class#HumanVSAi#0" expanded="false" />
+            <element signature="docComment;method#createContentComponents#0;class#HumanVSAi#0" expanded="false" />
+            <element signature="method#createContentComponents#0;class#HumanVSAi#0" expanded="false" />
+            <element signature="class#8808:9610" expanded="false" />
+            <element signature="e#17357#17391#0" expanded="true" />
+            <element signature="method#main#0;class#HumanVSAi#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="167">
+            <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>sem2|v18|inf101</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
