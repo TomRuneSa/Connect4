@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5d80df7-8aeb-49c9-89c2-63f744ffc92a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/org/junit/jupiter/api/annotations.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Tests/boardTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/inf101/v18/sem2/Board.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/inf101/v18/sem2/HumanVSAi.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/inf101/v18/sem2/HumanVSHuman.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/inf101/v18/sem2/IBoard.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/inf101/v18/sem2/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/inf101/v18/sem2/Minimax.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/inf101/v18/sem2/Move.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/inf101/v18/sem2/ResourceLoader.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/inf101/v18/sem2/iGUI.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="$PROJECT_DIR$/inf101.v18.sem2.iml" afterPath="$PROJECT_DIR$/inf101.v18.sem2.iml" />
-      <change beforePath="$PROJECT_DIR$/src/inf101/v18/sem2/AppInfo.java" afterPath="$PROJECT_DIR$/src/main/java/inf101/v18/sem2/AppInfo.java" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,12 +14,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="Board.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/Board.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="232" column="21" lean-forward="true" selection-start-line="232" selection-start-column="21" selection-end-line="232" selection-end-column="21" />
+            <state relative-caret-position="406">
+              <caret line="231" column="38" lean-forward="false" selection-start-line="231" selection-start-column="38" selection-end-line="231" selection-end-column="38" />
               <folding>
                 <element signature="e#1201#1202#0" expanded="true" />
                 <element signature="e#1232#1233#0" expanded="true" />
@@ -52,18 +38,15 @@
       <file leaf-file-name="HumanVSHuman.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/HumanVSHuman.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
+            <state relative-caret-position="1890">
               <caret line="146" column="32" lean-forward="false" selection-start-line="146" selection-start-column="32" selection-end-line="146" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#HumanVSHuman#0;class#HumanVSHuman#0" expanded="false" />
                 <element signature="method#createLayeredBoard#0;class#HumanVSHuman#0" expanded="false" />
-                <element signature="e#1935#2067#0" expanded="true" />
-                <element signature="e#2066#2067#0" expanded="true" />
                 <element signature="method#keyPressed#0;class#2170:3703" expanded="false" />
                 <element signature="method#centerWindow#0;class#HumanVSHuman#0" expanded="false" />
                 <element signature="method#game#0;class#HumanVSHuman#0" expanded="false" />
-                <element signature="e#12666#12700#0" expanded="true" />
                 <element signature="method#main#0;class#HumanVSHuman#0" expanded="false" />
               </folding>
             </state>
@@ -73,7 +56,7 @@
       <file leaf-file-name="HumanVSAi.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/HumanVSAi.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
+            <state relative-caret-position="945">
               <caret line="153" column="24" lean-forward="false" selection-start-line="153" selection-start-column="24" selection-end-line="153" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -81,15 +64,11 @@
                 <element signature="method#HumanVSAi#0;class#HumanVSAi#0" expanded="false" />
                 <element signature="method#createLayeredBoard#0;class#HumanVSAi#0" expanded="false" />
                 <element signature="method#createNewGame#0;class#HumanVSAi#0" expanded="false" />
-                <element signature="e#2162#2316#0" expanded="true" />
-                <element signature="e#2315#2316#0" expanded="true" />
                 <element signature="method#placeChecker#0;class#HumanVSAi#0" expanded="false" />
                 <element signature="method#game#0;class#HumanVSAi#0" expanded="false" />
                 <element signature="method#aiMove#0;class#HumanVSAi#0" expanded="false" />
                 <element signature="docComment;method#createContentComponents#0;class#HumanVSAi#0" expanded="false" />
                 <element signature="method#createContentComponents#0;class#HumanVSAi#0" expanded="false" />
-                <element signature="class#8808:9610" expanded="false" />
-                <element signature="e#17357#17391#0" expanded="true" />
                 <element signature="method#main#0;class#HumanVSAi#0" expanded="false" />
               </folding>
             </state>
@@ -100,8 +79,21 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="167">
-                <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <first_editor relative-caret-position="525">
+                <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SEM-2.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SEM-2.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="378">
+                <caret line="93" column="30" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="219" selection-end-column="250" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -112,7 +104,7 @@
       <file leaf-file-name="iGUI.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/iGUI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="439">
+            <state relative-caret-position="441">
               <caret line="40" column="8" lean-forward="false" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -129,8 +121,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="43">
-              <caret line="141" column="0" lean-forward="true" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
+            <state relative-caret-position="2562">
+              <caret line="141" column="0" lean-forward="false" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
               <folding>
                 <element signature="e#5887#5888#0" expanded="true" />
                 <element signature="e#5925#5926#0" expanded="true" />
@@ -142,7 +134,7 @@
       <file leaf-file-name="Move.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/Move.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
+            <state relative-caret-position="798">
               <caret line="44" column="20" lean-forward="false" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
               <folding />
             </state>
@@ -152,8 +144,8 @@
       <file leaf-file-name="boardTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Tests/boardTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+            <state relative-caret-position="399">
+              <caret line="43" column="9" lean-forward="false" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="docComment;method#canMoveTest#0;class#boardTest#0" expanded="false" />
@@ -175,21 +167,8 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/ResourceLoader.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Minimax.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/Minimax.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="83" column="50" lean-forward="false" selection-start-line="83" selection-start-column="50" selection-end-line="83" selection-end-column="50" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#Minimax#0;class#Minimax#0" expanded="false" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -311,7 +290,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -324,46 +305,11 @@
               <item name="inf101.v18.sem2" type="462c0819:PsiDirectoryNode" />
               <item name=".settings" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="inf101.v18.sem2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="inf101.v18.sem2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="inf101.v18.sem2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="inf101.v18.sem2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="inf101.v18.sem2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="inf101.v18.sem2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="inf101.v18.sem2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="inf101.v18.sem2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sem2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="inf101.v18.sem2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="inf101.v18.sem2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -607,7 +553,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523870265264</updated>
-      <workItem from="1523870266504" duration="63022000" />
+      <workItem from="1523870266504" duration="63858000" />
+      <workItem from="1525084282232" duration="2144000" />
+      <workItem from="1525335299738" duration="30000" />
+      <workItem from="1551187013651" duration="422000" />
     </task>
     <servers />
   </component>
@@ -644,10 +593,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63022000" />
+    <option name="totallyTimeSpent" value="66454000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -662,9 +612,8 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15989584" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15989584" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -672,10 +621,11 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -691,19 +641,425 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/inf101/v18/sem2/GameParamters.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/Board.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1201#1202#0" expanded="true" />
+            <element signature="e#1232#1233#0" expanded="true" />
+            <element signature="e#1461#1462#0" expanded="true" />
+            <element signature="e#1490#1491#0" expanded="true" />
+            <element signature="e#1532#1533#0" expanded="true" />
+            <element signature="e#1568#1569#0" expanded="true" />
+            <element signature="e#1604#1605#0" expanded="true" />
+            <element signature="e#1637#1638#0" expanded="true" />
+            <element signature="method#getChildren#0;class#Board#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/HumanVSHuman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1890">
+          <caret line="146" column="32" lean-forward="false" selection-start-line="146" selection-start-column="32" selection-end-line="146" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#HumanVSHuman#0;class#HumanVSHuman#0" expanded="false" />
+            <element signature="method#createLayeredBoard#0;class#HumanVSHuman#0" expanded="false" />
+            <element signature="method#keyPressed#0;class#2170:3703" expanded="false" />
+            <element signature="method#centerWindow#0;class#HumanVSHuman#0" expanded="false" />
+            <element signature="method#game#0;class#HumanVSHuman#0" expanded="false" />
+            <element signature="method#main#0;class#HumanVSHuman#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/HumanVSAi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="153" column="24" lean-forward="false" selection-start-line="153" selection-start-column="24" selection-end-line="153" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#469#512#0" expanded="false" />
+            <element signature="method#HumanVSAi#0;class#HumanVSAi#0" expanded="false" />
+            <element signature="method#createLayeredBoard#0;class#HumanVSAi#0" expanded="false" />
+            <element signature="method#createNewGame#0;class#HumanVSAi#0" expanded="false" />
+            <element signature="method#placeChecker#0;class#HumanVSAi#0" expanded="false" />
+            <element signature="method#game#0;class#HumanVSAi#0" expanded="false" />
+            <element signature="method#aiMove#0;class#HumanVSAi#0" expanded="false" />
+            <element signature="docComment;method#createContentComponents#0;class#HumanVSAi#0" expanded="false" />
+            <element signature="method#createContentComponents#0;class#HumanVSAi#0" expanded="false" />
+            <element signature="method#main#0;class#HumanVSAi#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="462">
+            <caret line="22" column="14" lean-forward="false" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/iGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="40" column="8" lean-forward="false" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#createLayeredBoard#0;class#iGUI#0" expanded="false" />
+            <element signature="docComment;method#centerWindow#0;class#iGUI#0" expanded="false" />
+            <element signature="docComment;method#placeChecker#0;class#iGUI#0" expanded="false" />
+            <element signature="docComment;method#game#0;class#iGUI#0" expanded="false" />
+            <element signature="docComment;method#createContentComponents#0;class#iGUI#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2562">
+          <caret line="141" column="0" lean-forward="false" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
+          <folding>
+            <element signature="e#5887#5888#0" expanded="true" />
+            <element signature="e#5925#5926#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/Move.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="44" column="20" lean-forward="false" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tests/boardTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="43" column="9" lean-forward="false" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#canMoveTest#0;class#boardTest#0" expanded="false" />
+            <element signature="method#canMoveTest#0;class#boardTest#0" expanded="false" />
+            <element signature="docComment;method#fullColumnTest#0;class#boardTest#0" expanded="false" />
+            <element signature="method#fullColumnTest#0;class#boardTest#0" expanded="false" />
+            <element signature="docComment;method#rowTest#0;class#boardTest#0" expanded="false" />
+            <element signature="method#rowTest#0;class#boardTest#0" expanded="false" />
+            <element signature="docComment;method#winTest#0;class#boardTest#0" expanded="false" />
+            <element signature="method#winTest#0;class#boardTest#0" expanded="false" />
+            <element signature="docComment;method#goTest#0;class#boardTest#0" expanded="false" />
+            <element signature="method#goTest#0;class#boardTest#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/ResourceLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/Minimax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1638">
+          <caret line="83" column="50" lean-forward="false" selection-start-line="83" selection-start-column="50" selection-end-line="83" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="method#Minimax#0;class#Minimax#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1201#1202#0" expanded="true" />
+            <element signature="e#1232#1233#0" expanded="true" />
+            <element signature="e#1461#1462#0" expanded="true" />
+            <element signature="e#1490#1491#0" expanded="true" />
+            <element signature="e#1532#1533#0" expanded="true" />
+            <element signature="e#1568#1569#0" expanded="true" />
+            <element signature="e#1604#1605#0" expanded="true" />
+            <element signature="e#1637#1638#0" expanded="true" />
+            <element signature="method#getChildren#0;class#Board#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/HumanVSHuman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1890">
+          <caret line="146" column="32" lean-forward="false" selection-start-line="146" selection-start-column="32" selection-end-line="146" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#HumanVSHuman#0;class#HumanVSHuman#0" expanded="false" />
+            <element signature="method#createLayeredBoard#0;class#HumanVSHuman#0" expanded="false" />
+            <element signature="method#keyPressed#0;class#2170:3703" expanded="false" />
+            <element signature="method#centerWindow#0;class#HumanVSHuman#0" expanded="false" />
+            <element signature="method#game#0;class#HumanVSHuman#0" expanded="false" />
+            <element signature="method#main#0;class#HumanVSHuman#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/HumanVSAi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="153" column="24" lean-forward="false" selection-start-line="153" selection-start-column="24" selection-end-line="153" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#469#512#0" expanded="false" />
+            <element signature="method#HumanVSAi#0;class#HumanVSAi#0" expanded="false" />
+            <element signature="method#createLayeredBoard#0;class#HumanVSAi#0" expanded="false" />
+            <element signature="method#createNewGame#0;class#HumanVSAi#0" expanded="false" />
+            <element signature="method#placeChecker#0;class#HumanVSAi#0" expanded="false" />
+            <element signature="method#game#0;class#HumanVSAi#0" expanded="false" />
+            <element signature="method#aiMove#0;class#HumanVSAi#0" expanded="false" />
+            <element signature="docComment;method#createContentComponents#0;class#HumanVSAi#0" expanded="false" />
+            <element signature="method#createContentComponents#0;class#HumanVSAi#0" expanded="false" />
+            <element signature="method#main#0;class#HumanVSAi#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="462">
+            <caret line="22" column="14" lean-forward="false" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/iGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="40" column="8" lean-forward="false" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#createLayeredBoard#0;class#iGUI#0" expanded="false" />
+            <element signature="docComment;method#centerWindow#0;class#iGUI#0" expanded="false" />
+            <element signature="docComment;method#placeChecker#0;class#iGUI#0" expanded="false" />
+            <element signature="docComment;method#game#0;class#iGUI#0" expanded="false" />
+            <element signature="docComment;method#createContentComponents#0;class#iGUI#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2562">
+          <caret line="141" column="0" lean-forward="false" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
+          <folding>
+            <element signature="e#5887#5888#0" expanded="true" />
+            <element signature="e#5925#5926#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/Move.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="44" column="20" lean-forward="false" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tests/boardTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="43" column="9" lean-forward="false" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#canMoveTest#0;class#boardTest#0" expanded="false" />
+            <element signature="method#canMoveTest#0;class#boardTest#0" expanded="false" />
+            <element signature="docComment;method#fullColumnTest#0;class#boardTest#0" expanded="false" />
+            <element signature="method#fullColumnTest#0;class#boardTest#0" expanded="false" />
+            <element signature="docComment;method#rowTest#0;class#boardTest#0" expanded="false" />
+            <element signature="method#rowTest#0;class#boardTest#0" expanded="false" />
+            <element signature="docComment;method#winTest#0;class#boardTest#0" expanded="false" />
+            <element signature="method#winTest#0;class#boardTest#0" expanded="false" />
+            <element signature="docComment;method#goTest#0;class#boardTest#0" expanded="false" />
+            <element signature="method#goTest#0;class#boardTest#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/ResourceLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/Minimax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1638">
+          <caret line="83" column="50" lean-forward="false" selection-start-line="83" selection-start-column="50" selection-end-line="83" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="method#Minimax#0;class#Minimax#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4452">
+          <caret line="232" column="21" lean-forward="false" selection-start-line="232" selection-start-column="21" selection-end-line="232" selection-end-column="21" />
+          <folding>
+            <element signature="e#1201#1202#0" expanded="true" />
+            <element signature="e#1232#1233#0" expanded="true" />
+            <element signature="e#1461#1462#0" expanded="true" />
+            <element signature="e#1490#1491#0" expanded="true" />
+            <element signature="e#1532#1533#0" expanded="true" />
+            <element signature="e#1568#1569#0" expanded="true" />
+            <element signature="e#1604#1605#0" expanded="true" />
+            <element signature="e#1637#1638#0" expanded="true" />
+            <element signature="method#getChildren#0;class#Board#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/HumanVSHuman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1890">
+          <caret line="146" column="32" lean-forward="false" selection-start-line="146" selection-start-column="32" selection-end-line="146" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#HumanVSHuman#0;class#HumanVSHuman#0" expanded="false" />
+            <element signature="method#createLayeredBoard#0;class#HumanVSHuman#0" expanded="false" />
+            <element signature="method#keyPressed#0;class#2170:3703" expanded="false" />
+            <element signature="method#centerWindow#0;class#HumanVSHuman#0" expanded="false" />
+            <element signature="method#game#0;class#HumanVSHuman#0" expanded="false" />
+            <element signature="method#main#0;class#HumanVSHuman#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/HumanVSAi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="153" column="24" lean-forward="false" selection-start-line="153" selection-start-column="24" selection-end-line="153" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#469#512#0" expanded="false" />
+            <element signature="method#HumanVSAi#0;class#HumanVSAi#0" expanded="false" />
+            <element signature="method#createLayeredBoard#0;class#HumanVSAi#0" expanded="false" />
+            <element signature="method#createNewGame#0;class#HumanVSAi#0" expanded="false" />
+            <element signature="method#placeChecker#0;class#HumanVSAi#0" expanded="false" />
+            <element signature="method#game#0;class#HumanVSAi#0" expanded="false" />
+            <element signature="method#aiMove#0;class#HumanVSAi#0" expanded="false" />
+            <element signature="docComment;method#createContentComponents#0;class#HumanVSAi#0" expanded="false" />
+            <element signature="method#createContentComponents#0;class#HumanVSAi#0" expanded="false" />
+            <element signature="method#main#0;class#HumanVSAi#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/iGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="40" column="8" lean-forward="false" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#createLayeredBoard#0;class#iGUI#0" expanded="false" />
+            <element signature="docComment;method#centerWindow#0;class#iGUI#0" expanded="false" />
+            <element signature="docComment;method#placeChecker#0;class#iGUI#0" expanded="false" />
+            <element signature="docComment;method#game#0;class#iGUI#0" expanded="false" />
+            <element signature="docComment;method#createContentComponents#0;class#iGUI#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2562">
+          <caret line="141" column="0" lean-forward="false" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
+          <folding>
+            <element signature="e#5887#5888#0" expanded="true" />
+            <element signature="e#5925#5926#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/Move.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="44" column="20" lean-forward="false" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tests/boardTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="43" column="9" lean-forward="false" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#canMoveTest#0;class#boardTest#0" expanded="false" />
+            <element signature="method#canMoveTest#0;class#boardTest#0" expanded="false" />
+            <element signature="docComment;method#fullColumnTest#0;class#boardTest#0" expanded="false" />
+            <element signature="method#fullColumnTest#0;class#boardTest#0" expanded="false" />
+            <element signature="docComment;method#rowTest#0;class#boardTest#0" expanded="false" />
+            <element signature="method#rowTest#0;class#boardTest#0" expanded="false" />
+            <element signature="docComment;method#winTest#0;class#boardTest#0" expanded="false" />
+            <element signature="method#winTest#0;class#boardTest#0" expanded="false" />
+            <element signature="docComment;method#goTest#0;class#boardTest#0" expanded="false" />
+            <element signature="method#goTest#0;class#boardTest#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/ResourceLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/Minimax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1638">
+          <caret line="83" column="50" lean-forward="false" selection-start-line="83" selection-start-column="50" selection-end-line="83" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="method#Minimax#0;class#Minimax#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="462">
+            <caret line="22" column="14" lean-forward="false" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inf101/v18/sem2/GameParamters.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Properties.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="123" column="2" lean-forward="true" selection-start-line="123" selection-start-column="2" selection-end-line="124" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -711,42 +1067,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="205">
           <caret line="720" column="22" lean-forward="false" selection-start-line="720" selection-start-column="22" selection-end-line="720" selection-end-column="22" />
-          <folding>
-            <element signature="e#25545#25546#0" expanded="false" />
-            <element signature="e#25587#25588#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/GuiAiVSAi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="517">
-          <caret line="126" column="23" lean-forward="false" selection-start-line="126" selection-start-column="23" selection-end-line="126" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/GuiAiVSAi.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/javax/swing/UIManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="205">
           <caret line="570" column="23" lean-forward="false" selection-start-line="570" selection-start-column="23" selection-end-line="570" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/Gui.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="583" column="29" lean-forward="true" selection-start-line="583" selection-start-column="29" selection-end-line="583" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/Gui.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/AppInfo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -778,34 +1114,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/Minimax.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
+        <state relative-caret-position="1638">
           <caret line="83" column="50" lean-forward="false" selection-start-line="83" selection-start-column="50" selection-end-line="83" selection-end-column="50" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
             <element signature="method#Minimax#0;class#Minimax#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/PreferencesWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="11" column="48" lean-forward="true" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/GameParameters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/PreferencesWindow.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/GameParameters.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/iGUI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
+        <state relative-caret-position="441">
           <caret line="40" column="8" lean-forward="false" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -820,18 +1142,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/HumanVSHuman.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
+        <state relative-caret-position="1890">
           <caret line="146" column="32" lean-forward="false" selection-start-line="146" selection-start-column="32" selection-end-line="146" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#HumanVSHuman#0;class#HumanVSHuman#0" expanded="false" />
             <element signature="method#createLayeredBoard#0;class#HumanVSHuman#0" expanded="false" />
-            <element signature="e#1935#2067#0" expanded="true" />
-            <element signature="e#2066#2067#0" expanded="true" />
             <element signature="method#keyPressed#0;class#2170:3703" expanded="false" />
             <element signature="method#centerWindow#0;class#HumanVSHuman#0" expanded="false" />
             <element signature="method#game#0;class#HumanVSHuman#0" expanded="false" />
-            <element signature="e#12666#12700#0" expanded="true" />
             <element signature="method#main#0;class#HumanVSHuman#0" expanded="false" />
           </folding>
         </state>
@@ -839,8 +1158,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tests/boardTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+        <state relative-caret-position="399">
+          <caret line="43" column="9" lean-forward="false" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="docComment;method#canMoveTest#0;class#boardTest#0" expanded="false" />
@@ -857,10 +1176,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/ResourceLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/Move.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="44" column="20" lean-forward="false" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/HumanVSAi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="153" column="24" lean-forward="false" selection-start-line="153" selection-start-column="24" selection-end-line="153" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#469#512#0" expanded="false" />
+            <element signature="method#HumanVSAi#0;class#HumanVSAi#0" expanded="false" />
+            <element signature="method#createLayeredBoard#0;class#HumanVSAi#0" expanded="false" />
+            <element signature="method#createNewGame#0;class#HumanVSAi#0" expanded="false" />
+            <element signature="method#placeChecker#0;class#HumanVSAi#0" expanded="false" />
+            <element signature="method#game#0;class#HumanVSAi#0" expanded="false" />
+            <element signature="method#aiMove#0;class#HumanVSAi#0" expanded="false" />
+            <element signature="docComment;method#createContentComponents#0;class#HumanVSAi#0" expanded="false" />
+            <element signature="method#createContentComponents#0;class#HumanVSAi#0" expanded="false" />
+            <element signature="method#main#0;class#HumanVSAi#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2562">
+          <caret line="141" column="0" lean-forward="false" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
+          <folding>
+            <element signature="e#5887#5888#0" expanded="true" />
+            <element signature="e#5925#5926#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/Board.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="232" column="21" lean-forward="true" selection-start-line="232" selection-start-column="21" selection-end-line="232" selection-end-column="21" />
+        <state relative-caret-position="406">
+          <caret line="231" column="38" lean-forward="false" selection-start-line="231" selection-start-column="38" selection-end-line="231" selection-end-column="38" />
           <folding>
             <element signature="e#1201#1202#0" expanded="true" />
             <element signature="e#1232#1233#0" expanded="true" />
@@ -875,62 +1241,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/ResourceLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/Move.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="44" column="20" lean-forward="false" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43">
-          <caret line="141" column="0" lean-forward="true" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
-          <folding>
-            <element signature="e#5887#5888#0" expanded="true" />
-            <element signature="e#5925#5926#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/inf101/v18/sem2/HumanVSAi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="153" column="24" lean-forward="false" selection-start-line="153" selection-start-column="24" selection-end-line="153" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#469#512#0" expanded="false" />
-            <element signature="method#HumanVSAi#0;class#HumanVSAi#0" expanded="false" />
-            <element signature="method#createLayeredBoard#0;class#HumanVSAi#0" expanded="false" />
-            <element signature="method#createNewGame#0;class#HumanVSAi#0" expanded="false" />
-            <element signature="e#2162#2316#0" expanded="true" />
-            <element signature="e#2315#2316#0" expanded="true" />
-            <element signature="method#placeChecker#0;class#HumanVSAi#0" expanded="false" />
-            <element signature="method#game#0;class#HumanVSAi#0" expanded="false" />
-            <element signature="method#aiMove#0;class#HumanVSAi#0" expanded="false" />
-            <element signature="docComment;method#createContentComponents#0;class#HumanVSAi#0" expanded="false" />
-            <element signature="method#createContentComponents#0;class#HumanVSAi#0" expanded="false" />
-            <element signature="class#8808:9610" expanded="false" />
-            <element signature="e#17357#17391#0" expanded="true" />
-            <element signature="method#main#0;class#HumanVSAi#0" expanded="false" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/SEM-2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="378">
+            <caret line="93" column="30" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="219" selection-end-column="250" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="167">
-            <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <first_editor relative-caret-position="525">
+            <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
